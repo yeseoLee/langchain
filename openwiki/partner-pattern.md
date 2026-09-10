@@ -5,7 +5,7 @@ description: Step-by-step guide to integrate a new LLM provider into LangChain's
 tags: [chat-models, provider-integration, llm, function-calling, structured-output, streaming]
 verified:
   - by: openwiki/0.5.0
-    at: 2026-09-09T08:26:28.144Z
+    at: 2026-09-10T08:26:52.096Z
 sources:
   - id: openwiki-source-c52037e7b642f7ac5a7642a8
     resource: repo://libs/core/langchain_core/language_models/chat_models.py
